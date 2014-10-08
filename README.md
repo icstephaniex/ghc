@@ -1,3 +1,3 @@
 # Welcome to introduction to GitHub at GHC
 
-* different info, add some info about the event
+* Thanks for teaching us how to fork, John!
